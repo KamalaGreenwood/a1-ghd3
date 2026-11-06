@@ -9,7 +9,7 @@ Technical achievments:
 3. If your reading this I managed to figure out github somewhat
 4. I managed to locally host
 5. I learned that each div has an ID which an svg is attached to but I can then later attach multiple SVGs to the same ID to make them overlap like this
-![image](https://github.com/KamalaGreenwood/a1-ghd3/tree/main/images/overlapping.png)
+![image](images/overlapping.png)
 
 Design achievments:
 1. I implemented dark mode using a dark background and light text
