@@ -18,6 +18,6 @@ Design achievments:
 I had come up with a design for a cat with simple shapes but it would have required more time and effort than I had set aside. I wanted to make a heart but I didn't end up figuring how to rotate a triangle to make the bottom. I never ended up figuring out how to move shapes on the screen to where I wanted them to be. I didn't manage to animate or make anything intresting. I wanted to make a convex hull but couldn't even get that to work. Overall my "work" is lackluster. Maybe I should have had AI help me, but at that point why am I even doing anything when I am just relying on AI to do it for me.
 
 My heart mid progress before I gave up
-![image](https://github.com/KamalaGreenwood/a1-ghd3/tree/main/images/midHeart.png)
+![image](images/midHeart.png)
 My dismal final product
-![image](https://github.com/KamalaGreenwood/a1-ghd3/tree/main/images/pathetic-final-product.png)
+![image](images/pathetic-final-product.png)
